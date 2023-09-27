@@ -1,0 +1,9 @@
+Este repositório foi criado para o projeto SKY15.
+
+O objetivo do projeto é criar um site para a loja de colchões Sky - Descanso Profundo.
+
+Alguns requisitos do projeto:
+- Landing page;
+- Formulário de contato.
+
+O site será escrito em HTML, CSS, Node.js e React.
