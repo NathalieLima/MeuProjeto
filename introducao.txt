@@ -7,3 +7,9 @@ Alguns requisitos do projeto:
 - Formulário de contato.
 
 O site será escrito em HTML, CSS, Node.js e React.
+
+
+### Recurso de navbar
+
+Adição de navbar para página inicial.
+Deverá permitir a possibilidade de ocultar/expandir o menu.
