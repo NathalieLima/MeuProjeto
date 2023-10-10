@@ -8,8 +8,16 @@ Alguns requisitos do projeto:
 
 O site será escrito em HTML, CSS, Node.js e React.
 
+### Página ### 
 
-### Recurso de navbar
+=== Navbar ===
 
-Adição de navbar para página inicial.
-Deverá permitir a possibilidade de ocultar/expandir o menu.
+Recursos)
+
+1) Deverá permitir a possibilidade de ocultar/expandir o menu.
+
+--- Navbar Menu ---
+
+Recursos)
+
+1)
