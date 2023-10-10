@@ -14,10 +14,4 @@ O site será escrito em HTML, CSS, Node.js e React.
 
 Recursos)
 
-1) Deverá permitir a possibilidade de ocultar/expandir o menu.
-
---- Navbar Menu ---
-
-Recursos)
-
-1)
+1) Menu expandível.
